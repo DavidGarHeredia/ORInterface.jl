@@ -6,8 +6,8 @@ abstract type Solution end
 abstract type Status end
 
 export 	Problem, 
-		Constraint, 
-		Solution, 
-		Status
+        Constraint, 
+        Solution, 
+        Status
 
 end
